@@ -1,0 +1,17 @@
+anytree
+biplist
+construct==2.9.45
+cryptography
+kaitaistruct
+libewf-python
+libvmdk-python
+lz4
+nska_deserialize
+pillow
+plistutils
+pybindgen==0.21.0
+pycryptodome
+pyliblzfse
+pytsk3==20230125
+xlsxwriter
+other_dependencies/pyaff4-0.31-yk.zip
